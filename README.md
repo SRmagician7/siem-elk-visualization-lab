@@ -11,6 +11,7 @@
 **Target Endpoint:** Windows 10 VM (Windows 10 Enterprise Evaluation)
 
 **Adversary Node:** Kali Linux VM 
+
 **SIEM Host Node:** Windows 11 Host 
 
 ---
